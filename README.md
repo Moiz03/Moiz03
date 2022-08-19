@@ -2,7 +2,7 @@
  
 - 👀 I like to work on diverse technological fields like Web Programming , Mobile Development , Blockchain , Aritifical Intelligence and DevOps, and that's why I did projects in almost each niche.
  
-- 🌱 I’m currently working on MERN stack and also learning about Blockchain.
+- 🌱 I’m currently working with ReactJS, ExpressJS, NodeJS, NestJS, MongoDB and also learning about Blockchain.
 
 - 📫 How to reach me: moiz.ur.rehman.03@gmail.com
 
