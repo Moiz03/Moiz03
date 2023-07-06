@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Moiz ur Rehman a backend engineer and a tech enthusiast.
+- 👋 Hi, I’m Moiz ur Rehman a software engineer and a tech enthusiast.
  
 - 👀 I like to work on diverse technological fields like Web Programming , Mobile Development , Blockchain , Aritifical Intelligence and DevOps, and that's why I did projects in almost each niche.
  
-- 🌱 I’m currently working with ReactJS, ExpressJS, NodeJS, NestJS, MongoDB and also learning about Blockchain.
+- 🌱 I have working experience with AWS, Django, PostgreSQL, ReactJS, ExpressJS, NodeJS, NestJS, and MongoDB.
 
 - 📫 How to reach me: moiz.ur.rehman.03@gmail.com
 
