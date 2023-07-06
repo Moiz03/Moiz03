@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: moiz.ur.rehman.03@gmail.com
 
-- 📫 LinkedIn Profile: https://www.linkedin.com/in/mianmoiz03/
+- 📫 LinkedIn Profile: https://www.linkedin.com/in/moiz03/
 <!---
 Moiz03/Moiz03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
